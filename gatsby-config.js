@@ -3,7 +3,7 @@ module.exports = {
     title: `テーマを使ってみる`,
     description: `テーマを使ってみる`,
     author: `Yuuki Okamoto`,
-    siteUrl: ``,
+    siteUrl: `https://example-of-gatsby-theme-usage.netlify.com`,
     social: [
       {
         name: `Twitter`,
